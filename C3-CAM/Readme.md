@@ -1,0 +1,1 @@
+##READMEThe data in these folders is associated with a manuscript (https://doi.org/10.1101/371344) on comparative transcriptomics and metabolomics of C3, CAM, and intermediate species of <i>Yucca</i> (Asparagaceae). 
